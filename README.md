@@ -157,26 +157,26 @@ Para administrar un directorio telefónico sin claves duplicadas y ordenado por 
 
 ## Salida de la consola Practica DAO con Hash y Tree
 ----Practica Mapas----
-Nombre: Erick Bermeo
-Lista con Hash: 
-ID: 1, Name: Juan, Position: DEV
-ID: 2, Name: Pedro, Position: DEV
-ID: 3, Name: Maria, Position: DEV
-ID: 4, Name: Pedro, Position: DEV
-ID: 5, Name: Juan, Position: DEV
-Lista sin el (2) con Hash: 
-ID: 1, Name: Juan, Position: DEV
-ID: 3, Name: Maria, Position: DEV
-ID: 4, Name: Pedro, Position: DEV
-ID: 5, Name: Juan, Position: DEV
-Lista con Tree: 
-ID: 1, Name: Juan, Position: DEV
-ID: 2, Name: Pedro, Position: DEV
-ID: 3, Name: Maria, Position: DEV
-ID: 4, Name: Pedro, Position: DEV
-ID: 5, Name: Juan, Position: DEV
-Lista sin el (2) con Tree: 
-ID: 1, Name: Juan, Position: DEV
-ID: 3, Name: Maria, Position: DEV
-ID: 4, Name: Pedro, Position: DEV
-ID: 5, Name: Juan, Position: DEV
+- Nombre: Erick Bermeo
+- Lista con Hash: 
+- ID: 1, Name: Juan, Position: DEV
+- ID: 2, Name: Pedro, Position: DEV
+- ID: 3, Name: Maria, Position: DEV
+- ID: 4, Name: Pedro, Position: DEV
+- ID: 5, Name: Juan, Position: DEV
+- Lista sin el (2) con Hash: 
+- ID: 1, Name: Juan, Position: DEV
+- ID: 3, Name: Maria, Position: DEV
+- ID: 4, Name: Pedro, Position: DEV
+- ID: 5, Name: Juan, Position: DEV
+- Lista con Tree: 
+- ID: 1, Name: Juan, Position: DEV
+- ID: 2, Name: Pedro, Position: DEV
+- ID: 3, Name: Maria, Position: DEV
+- ID: 4, Name: Pedro, Position: DEV
+- ID: 5, Name: Juan, Position: DEV
+- Lista sin el (2) con Tree: 
+- ID: 1, Name: Juan, Position: DEV
+- ID: 3, Name: Maria, Position: DEV
+- ID: 4, Name: Pedro, Position: DEV
+- ID: 5, Name: Juan, Position: DEV
